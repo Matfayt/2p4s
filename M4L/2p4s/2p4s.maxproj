@@ -2,13 +2,20 @@
 	"name" : "2p4s",
 	"version" : 1,
 	"creationdate" : 3740474973,
-	"modificationdate" : 3740474973,
-	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
+	"modificationdate" : 3740482654,
+	"viewrect" : [ 237.0, -813.0, 298.0, 498.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
+		"other" : 		{
+			"2p4s.maxproj" : 			{
+				"kind" : "project",
+				"local" : 1
+			}
+
+		}
 
 	}
 ,
